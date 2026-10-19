@@ -4,7 +4,7 @@
 
 <h1 align="center"><b>Sarbil</b></h1>
 
-O projeto tem como conceito fazer a detecção de sinais de **Libras**, posteriormente a isso, entregar a tradução da língua em português.
+O projeto tem como conceito fazer a detecção de sinais de **Libras**, posteriormente a isso, entregar a tradução da língua em português. Ao mesmo tempo, também haverá a realização de tradução de português para Libras com um avatar realizando os movimentos dos sinais e expressões. 
 
 # Fluxo de Funcionamento 
 
