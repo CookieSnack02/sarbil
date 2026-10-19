@@ -23,6 +23,12 @@ _Em produção..._
 
 _Em produção..._
 
+# Processos e Desafios
+
+O maior desafio da Libras é a sua estrutura própria. Tendo em vista que muitos desconhecem o seu verdadeiro funcionamento, alguns acreditam que Libras é somente a soletração, ou como também chamada, datilologia. Os sinais a serem realizados possuem a possibilidade de execução em cinco parâmetros da Libras: **configuração de mão, movimento, orientação, ponto de articulação e expressão corporal ou facial**. 
+Identificar as minúcias dessa língua por detecção facial e corporal, além do treinamento com inteligência artificial é muito complexo porque, ao mesmo tempo, caso a frase seja interrogativa, não existe um ponto de interrogação próprio na Libras, geralmente é utilizada em contrapartida a expressão facial, ou seja, uma arqueada de sobrancelha, no caso da negação, um movimento negativo de cabeça. 
+A idealização para a execução do projeto de maneira mais correta e dentro do contexto da Libras é utilizar um treinamento com inteligência artificial para colocar na memória as letras do alfabeto em Libras, mas em vez de gravar somente sinais isolados, gravar frases para um treinamento de reconhecimento de padrões. 
+
 
 # Linguagem de Programação e Ferramentas
 
