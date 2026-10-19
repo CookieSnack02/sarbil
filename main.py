@@ -1,6 +1,6 @@
 import numpy as np
 import cv2 as cv
-import mediapipe as mp
+import mediapipe as mp #Mediapipe é feito para a captura de imagens e vídeos, e também para a detecção de mãos, rosto, pose, etc.
 
 
 maos = mp.solutions.hands
