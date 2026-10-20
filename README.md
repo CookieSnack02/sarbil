@@ -3,6 +3,10 @@
 </div>
 
 <h1 align="center"><b>Sarbil</b></h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow" alt="Status">
+  <img src="https://img.shields.io/badge/Python-3.12.5-blue" alt="Python">
+</p>
 
 O projeto tem como conceito fazer a detecção de sinais de **Libras**, posteriormente a isso, entregar a tradução da língua em português. Ao mesmo tempo, também haverá a realização de tradução de português para Libras com um avatar realizando os movimentos dos sinais e expressões. 
 
@@ -13,6 +17,7 @@ O projeto tem como conceito fazer a detecção de sinais de **Libras**, posterio
 3. **Processamento:** O sistema aguarda o término para definir a estrutura da frase (**afirmativa**, **interrogativa** ou **negativa**).
 4. **Finalização:** A sinalização é concluída.
 5. **Tradução:** A mensagem traduzida em Português é exibida na tela.
+
 
 # Diagrama de Caso de Uso 
 
